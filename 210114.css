@@ -1,0 +1,177 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size:12px !important;
+    color:#356ef9 !important;
+    background-color:#000;
+    padding:10px;
+}
+
+.username {
+    position:relative;
+    margin:0 auto;
+    width:900px;
+    padding:10px;
+    font-size:38px !important;
+    color:#000093 !important;
+    font-weight:bold;
+    opacity:0.5;
+}
+
+.container {
+    background-image:url("lnu.png");
+    width:900px;
+    height:800px;
+    margin:0 auto;
+    position:relative;
+    background-color:transparent;
+}
+
+.dp {
+    position:absolute;
+    top:190px;
+    left:670px;
+    width:160px;
+    height:220px;
+    opacity:0.5;
+    background-image:url("https://www.imvu.com/catalog/web_av_pic.php?u=71736324");
+}
+
+.main {
+    position:absolute;
+    top:175px;
+    left:50px;
+    width:575px;
+    height:375px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size:12px !important;
+    color:#356ef9 !important;
+    overflow:hidden;
+}
+
+.misc {
+    position:absolute;
+    top:575px;
+    left:50px;
+    width:375px;
+    height:175px;
+    opacity:0.5;
+    overflow:hidden;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size:12px !important;
+    color:#356ef9 !important;
+}
+
+.music {
+    position:absolute;
+    top:575px;
+    left:475px;
+    width:375px;
+    height:175px;
+    opacity:0.5;
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size:12px !important;
+    color:#356ef9 !important;
+}
+
+.updates {
+    position:absolute;
+    top:450px;
+    left:650px;
+    width:170px;
+    height:70px;
+    padding:15px;
+    overflow:hidden;
+    opacity:0.5;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size:12px !important;
+    color:#356ef9 !important;
+}
+
+.scroll {
+    position:absolute;
+    top:125px;
+    left:50px;
+    width:800px;
+    height:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    opacity:0.5;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size:12px !important;
+    color:#356ef9 !important;
+}
+
+.b1 {
+    position:absolute;
+    top:55px;
+    left:50px;
+    width:195px;
+    height:45px;
+    opacity:0.5;
+    border:none !important;
+    background-color:transparent !important;
+}
+
+.b2 {
+    position:absolute;
+    top:55px;
+    left:255px;
+    width:195px;
+    height:45px;
+    opacity:0.5;
+    border:none !important;
+    background-color:transparent !important;
+}
+
+.b3 {
+    position:absolute;
+    top:55px;
+    left:455px;
+    width:190px;
+    height:45px;
+    opacity:0.5;
+    border:none !important;
+    background-color:transparent !important;
+}
+
+.b4 {
+    position:absolute;
+    top:55px;
+    left:655px;
+    width:190px;
+    height:45px;
+    opacity:0.5;
+    border:none !important;
+    background-color:transparent !important;
+}
+
+.b5 {
+    position:absolute;
+    top:410px;
+    left:650px;
+    width:200px;
+    height:40px;
+    text-align:center;
+    border: none !important;
+    background-color:transparent !important;
+}
+
+a {
+    color:#356ef9 !important;
+    text-shadow:0px 0px 2px #000;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-decoration:none !important;
+}
+
+a:hover {
+    color:#fff !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    text-shadow:0px 0px 2px #fff;
+    letter-spacing:2px;
+    text-decoration:none !important;
+    transition: .5s ease-in-out !important;
+    -moz-transition: .5s ease-in-out !important;
+    -o-transition: .5s ease-in-out !important;
+    -webkit-transition: .5s ease-in-out !important;
+}
